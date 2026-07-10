@@ -16,7 +16,6 @@
     <value name="TEST6">2.2</value>
     <value name="InvoiceProcessing">2.2</value>
     <value name="PackageInside">1.1</value>
-    <value name="TEST1">3.0</value>
     <value name="TEST2">2.2</value>
     <value name="TEST3">2.2</value>
     <value name="TEST4">2.2</value>
@@ -25,13 +24,13 @@
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">25</value>
+  <value name="build">26</value>
   <null name="description"/>
   <value name="created_date">10-07-2026 15:44:14 GMT</value>
   <null name="extendedProperties"/>
   <value name="target_server_version">12.1.0.0</value>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2026-07-10T17:31:38.440325536Z</value>
+  <value name="lastUpdated">2026-07-10T17:32:05.79261958Z</value>
   <value name="wmProjectId">fl0f5e0d4b09ac4d17a6dd885fe98cce14</value>
   <value name="creator">Rima Barman</value>
 </Values>
